@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prudhv1Raju
 - 👀 I’m interested in Computers and Robotics
-- 🌱 I’m currently learning AI/ML Data science and Cybersecurity
+- 🌱 I’m currently learning AI/ML and Robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (why to reach me?)
 - ⚡ Fun fact: 
